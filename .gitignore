@@ -1,0 +1,8 @@
+/gradlew
+/gradlew.bat
+/settings.gradle
+/spacetrain.mv.db
+/spacetrain.trace.db
+/.gradle/
+/.idea/
+/build/
